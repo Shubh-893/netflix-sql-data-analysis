@@ -49,5 +49,5 @@ This project showcases SQL skills required for:
 - Product Analyst roles  
 
 ## 👍 Author
-Shubham Kamal
+     --Shubham
 
