@@ -40,7 +40,7 @@ This file contains:
 ## 📂 How to Run
 1. Import the Netflix dataset into MySQL  
 2. Run the SQL file step-by-step  
-3. Explore all 15 business problem solutions  
+3. Explore all 14 business problem solutions  
 
 ##  Purpose
 This project showcases SQL skills required for:
